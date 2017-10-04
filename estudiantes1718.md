@@ -17,6 +17,7 @@
 ## Grupo 3. La profesión del periodista
 <!-- aquí el listado de miembros del grupo 3 -->
 
+- [Santamaría Fernández, Endika](htpp://endikasantamaria.github.io)
 
 ## Grupo 4. (¿Tema?)
 <!-- aquí el listado de miembros del grupo 4 -->
